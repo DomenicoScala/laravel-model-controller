@@ -15,6 +15,11 @@
             'label' => 'Contatti',
             'active' => false,
         ],
+        [
+            'url' => '/movies',
+            'label' => 'Movies',
+            'active' => true,
+        ],
     ];
 @endphp
 
